@@ -1,0 +1,30 @@
+/*
+
+Project Name: Hack for LA Hackathon
+Author: Machiko Yasuda | Lex Alexander
+
+*/
+
+body {
+	color: #FFF;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+#container, footer, nav {
+	background: #000;
+	width: 100%;
+}
+
+footer {
+	font-weight: 300;
+	font-style: italic;
+}
+
+nav {
+	font-weight: 300;
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
